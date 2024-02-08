@@ -1,4 +1,4 @@
-#!/Users/nikita/Documents/GitHub/DjangoStatic/venv/bin/python3.12
+#!/Users/nikita/Documents/GitHub/DjangoStatic/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
