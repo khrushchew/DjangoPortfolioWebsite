@@ -37,7 +37,7 @@ python3 manage.py runserver
 
 ## Контакты
 
-Автор: Попов Н.А.
+Автор: Попов Н.А.<br>
 Email: popovn2268@gmail.com
 
 Приятного пользования!
