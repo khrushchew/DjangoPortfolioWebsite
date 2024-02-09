@@ -37,7 +37,7 @@ python3 manage.py runserver
 
 ## Contacts
 
-Author: N.A. Popov
+Author: N.A. Popov <br>
 Email: popovn2268@gmail.com
 
 Enjoy your browsing!
